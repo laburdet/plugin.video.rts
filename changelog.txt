@@ -1,3 +1,6 @@
+v1.1.5:
+- Fix liste d'épisodes A-Z
+
 v1.1.4:
 - Fix xbmcaddon.Addon() call
 - Fix rss parsing on channel/item/description content when there is no img tag in
